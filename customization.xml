@@ -66,7 +66,7 @@
             <path value="Default" />
             <option name="myInitialPosition" value="-1" />
         </group>
-        <group seperator="true" action_type="1" position="5">
+        <group value="RenameElement" is_action="true" action_type="1" position="5">
             <path value="root" />
             <path value="Touch Bar" />
             <path value="Default" />
