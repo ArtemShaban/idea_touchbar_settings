@@ -42,6 +42,12 @@
             <path value="Default" />
             <option name="myInitialPosition" value="-1" />
         </group>
+        <group value="RenameElement" is_action="true" action_type="1" position="1">
+            <path value="root" />
+            <path value="Touch Bar" />
+            <path value="Default" />
+            <option name="myInitialPosition" value="-1" />
+        </group>
         <group value="Refactorings.QuickListPopupAction" is_action="true" action_type="1" position="2">
             <path value="root" />
             <path value="Touch Bar" />
